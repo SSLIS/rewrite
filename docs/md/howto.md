@@ -14,7 +14,7 @@ The template uses a built-in workflow for visualising and publishing the essay w
 To get started with this template, follow these quick steps. More detailed instructions for each of the steps are linked below. This guide assumes that you will want to take advantage of both the template's local and online workflows.
 
 1. Install [the requirements](requirements.html)
-2. Add [the template](https://github.com/WoutDLN/rewrite) to your GitHub account 
+2. Add [the template](https://github.com/sslis/rewrite) to your GitHub account 
 3. Clone the template to your local machine
 4. Start writing your essay in `essay.md` and adding references in `references.bib`
 5. Run `make preview` to (re)generate `index.html` and check your progress

@@ -8,7 +8,7 @@ bibliography: references.bib
 
 ### 1.1: Add the template repository to your GitHub Account
 
-Visit [the re:write repository on GitHub](https://github.com/WoutDLN/rewrite).
+Visit [the re:write repository on GitHub](https://github.com/sslis/rewrite).
 Click on the green button that says `Use this template` in the top left.
 In the drop-down menu, pick `Create a new repository` to start setting up a copy of the repository on your own account.
 Choose a name for your repository (or keep the default), choose whether you want your repository to be public or private, and continue.
