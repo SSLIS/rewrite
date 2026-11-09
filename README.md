@@ -1,3 +1,7 @@
+[![DOI](https://zenodo.org/badge/1257378964.svg)](https://doi.org/10.5281/zenodo.24088229)
+![GitHub](https://img.shields.io/github/license/SSLIS/rewrite)
+![GitHub Actions Workflow Status](https://img.shields.io/github/actions/workflow/status/SSLIS/rewrite/deploy.yml)
+
 # re:write
 A light-weight template for generating a web-hosted essay from a markdown file through a versioned writing process. 
 
