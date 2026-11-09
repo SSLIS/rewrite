@@ -27,7 +27,7 @@ Check out the [demo](index.html) (and the markdown file it is generated from) to
 - ...[install the requirements](requirements.html)
 - ...[clone the template?](how-to-clone.html)
 - ...[write your essay in markdown?](how-to-write.html)
-- ...[cite your references in BibTex?]((how-to-cite.html))
+- ...[cite your references in BibTex?](how-to-cite.html)
 - ...review your progress locally in the browser?
 - ...track your progress through commits?
 - ...publish your changes online?
